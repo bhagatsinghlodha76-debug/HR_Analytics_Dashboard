@@ -12,7 +12,7 @@ The objective of this project is to identify factors contributing to employee tu
 
 ### HR Analytics Dashboard
 
-![HR Analytics Dashboard](Images/HR_Dashboard_Overview.png)
+![HR Analytics Dashboard](HR Analytics Dashboard.png)
 
 ---
 
